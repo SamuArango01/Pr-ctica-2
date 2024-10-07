@@ -1,2 +1,2 @@
-# Pr-ctica-2
-P´ractica 2 en prolog sobre herencias
+# Práctica-2
+Páractica 2 en prolog sobre herencias
