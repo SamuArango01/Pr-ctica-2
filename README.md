@@ -80,5 +80,5 @@ SWI-Prolog o cualquier otro intérprete de Prolog compatible.
 ## Autores
 Este proyecto fue realizado por:
 
-Samuel Arango Echeverri
+Samuel Arango Echeverri e
 Isabella Hernández Posada
